@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\prefect number project\prefect number project\bin\Debug\prefect number project.exe.config
+C:\Users\DELL\source\repos\prefect number project\prefect number project\bin\Debug\prefect number project.exe
+C:\Users\DELL\source\repos\prefect number project\prefect number project\bin\Debug\prefect number project.pdb
+C:\Users\DELL\source\repos\prefect number project\prefect number project\obj\Debug\prefect number project.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\prefect number project\prefect number project\obj\Debug\prefect number project.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\prefect number project\prefect number project\obj\Debug\prefect number project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\prefect number project\prefect number project\obj\Debug\prefect number project.exe
+C:\Users\DELL\source\repos\prefect number project\prefect number project\obj\Debug\prefect number project.pdb
